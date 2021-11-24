@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,600;0,700;0,800;0,900;1,500;1,600;1,700;1,800&display=swap');
+
+body {
+
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgb(2, 2, 2);
+
+ max-width: 828px;
+ max-height: 1472px;
+
+}
+
+p{
+    font-size: 7.5px;
+    line-height: 1.0;
+    text-align: justify;
+
+  background-repeat: no-repeat;
+    background: url(ewiza.jpg);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: rgba(255,255,255,0)
+}
